@@ -1,3 +1,3 @@
-WEB REAL TIME COMMUNICATION (Audiodfdfsdfsdfksdjfhdu)
+WEB REAL TIME COMMUNICATION
 https://react-webrtc2.herokuapp.com/
 testing
