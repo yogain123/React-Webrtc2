@@ -1,8 +1,8 @@
 // replace these values with those generated in your TokBox Account
 import OT from '@opentok/client';
-var apiKey = "46365052";
-var sessionId = "2_MX40NjM2NTA1Mn5-MTU2MzE4NTAzNTcxN35lQXYzUFFZZlcxSll5V0phQVVITFkzRGJ-fg";
-var token = "5367ce015677ea5513fa3594cc935053477cfa99";
+var apiKey = "XXXXXXX";
+var sessionId = "2_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+var token = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 // (optional) add server code here
 var SERVER_BASE_URL = 'https://webrtc-tokbox.herokuapp.com';
